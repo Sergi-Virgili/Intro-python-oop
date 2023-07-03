@@ -24,6 +24,7 @@ print("\nHello World")
 
 user1 = User("Dani", 1990)
 user2 = User("Maria", 1985)
+user3 = User("Maria", 1985)
 
 users = [user1,user2]
 
